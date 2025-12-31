@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">pring Boot Quartz Distributed Jobs Starter Project</h1>
+<h1 style="text-align: center;">Spring Boot Quartz Distributed Jobs Starter Project</h1>
 
 <p style="text-align: center;">
   <a href="https://github.com/deepaksorthiya/spring-boot-quartz-distributed-jobs/workflows/maven-build.yml">
